@@ -12,9 +12,12 @@
 	ms.workload="data-services" 
 	ms.tgt_pltfrm="na" 
 	ms.devlang="na" 
-	ms.topic="article" 
+	ms.topic="hero-article" 
 	ms.date="01/07/2015" 
 	ms.author="garye"/>
+
+#Get started for free
+All you need is a Microsoft account, so try Azure Machine Learning for free by going to the [Machine Learning home page] (http://studio.azureml.net/) to create a workspace.  Now you're ready to create your first experiment by following the steps below.
 
 #Create a simple experiment in Azure Machine Learning Studio 
  
