@@ -13,8 +13,8 @@
 	ms.tgt_pltfrm="na" 
 	ms.devlang="na" 
 	ms.topic="article" 
-	ms.date="02/18/2015" 
-	ms.author="luiscabrer"/>
+	ms.date="05/18/2015" 
+	ms.author="tedway"/>
 
 
 # Consuming an Azure Machine Learning Web Service from Excel #
